@@ -5,8 +5,11 @@
 /.pnp
 .pnp.js
 /public
+.reportWebvitals.js
+.setupTests.js
 # testing
 /coverage
+
 
 # production
 /build
